@@ -1,7 +1,7 @@
 # README #
 
 ## Table of Contents
-Important steps for git workflow 
+Important steps for git workflow
 
-Hello World. I love using git!
+I am here testing branching in git.
 
