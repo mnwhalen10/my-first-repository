@@ -2,4 +2,4 @@
 
 ## Table of Contents ##
 
-continuing on with the lesson. Git pull. 
+Edit readme file for practice
