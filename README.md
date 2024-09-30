@@ -2,8 +2,7 @@
 
 ## Table of Contents ##
 
-### Test Field ###
-Important steps for git workflow
+Reconnecting github to local git repo and all of this could change 
 
 I am here testing branching in git.
 incredible the changes you can make.
